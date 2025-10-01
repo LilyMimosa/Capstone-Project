@@ -1,6 +1,6 @@
 # Capstone-Project
-Deteksi dini penyakit jantung
-K-NEAREST NEIGHBOR: Alat Bantu Deteksi Dini Potensi Penyakit Jantung Berbasis Faktor Risiko Gaya Hidup dan Gejala Awal
+SiDeJan: Aplikasi Deteksi Dini Potensi Penyakit Jantung Berbasis Faktor Risiko Gaya Hidup dan Gejala Awal
+
 
 Deskripsi Proyek
 
