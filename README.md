@@ -17,7 +17,7 @@ Teknologi yang Digunakan
 - Bahasa pemrograman: Python dan TypeScript
 - Framework: Next.js dan Flask
 - Library/Tools: scikit-learn, joblib, pandas, numpy, gunicorn
-- Dataset: Dataset ciri-ciri yang terkena penyakit jantung
+- Dataset: Dataset gejala penderita sakit jantung
 
 Cara Menggunakan
 
